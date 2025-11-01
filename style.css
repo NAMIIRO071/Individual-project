@@ -45,6 +45,7 @@ body {
 }
 .about{
   text-align: center;
+  justify-content: center;
 }
 .about img{
   text-align: center;
@@ -95,7 +96,7 @@ input{
   text-align: center;
 }
 .head{
-  color: darkgoldenrod;
+  color:black;
   text-align: center;
 }
 .home{
@@ -115,12 +116,15 @@ input{
   text-align: center;
 }
 .index{
-  color: burlywood;
+  color:black;
   text-align: center;
 }
 .background{
   padding: 10px;
   background-size: cover;
+}
+.about{
+  color:black;
 }
 
  
